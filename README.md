@@ -1,7 +1,7 @@
 # Form-Validator
 
 <div align='center'>
-<img src="./Screenshot.png">
+<img src="./Screenshot">
 </div>
 
 <div align='center'>
