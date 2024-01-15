@@ -5,5 +5,5 @@
 </div>
 
 <div align='center'>
-<img src="./Screenshot1.png">
+<img src="./Screenshot (2).png">
 </div>
